@@ -4,7 +4,7 @@ This is a workshop which will allow students to create a Twilio agent which can
 query wikipedia and return the result as a text message.
 
 ## Prerequisites:
-- A place to host your code, we recommend repl.it
+- A place to host your code, we recommend [repl.it](https://repl.it/ "repl.it")
 - A Twilio number, with SMS sending and recieving enabled
 
 ## To set up your environment, follow these instructions:
